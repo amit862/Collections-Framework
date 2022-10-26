@@ -8,7 +8,7 @@
 ## 
 
 
-![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Java.util.Collection_hierarchy.svg/220px-Java.util.Collection_hierarchy.svg.png)
+![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Java.util.Collection_hierarchy.svg/1200px-Java.util.Collection_hierarchy.svg.png)
 
 
 
