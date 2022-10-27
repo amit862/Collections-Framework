@@ -12,9 +12,11 @@
 
 
 
-## Documentation
+## Notes
 
-[Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
+[Quick Notes](https://drive.google.com/file/d/140Pkx_NCWnfn5KB_IwUZje-qhlsDC1Pv/view?usp=sharing)
+
+
 
 
 
