@@ -1,6 +1,6 @@
 
 # Collections Framework
- This repository contains quick revision of java Collections framework.
+ This repository contains quick revision of Java Collections framework.
 
 
 
