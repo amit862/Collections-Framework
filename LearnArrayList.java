@@ -14,6 +14,7 @@ public class LearnArrayList {
         System.out.println(list);
 
         list.add(4);  // This will add 4 at the end of the List.
+
         System.out.println(list);
 
         list.add(1, 50); // This will add 50 at index 1. All the other elements will be shifted to right.
